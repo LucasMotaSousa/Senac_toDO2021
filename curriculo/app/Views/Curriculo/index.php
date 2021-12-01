@@ -1,0 +1,2 @@
+<h1>Curriculo abre portas !</h1>
+<h2>Um Curriculo bem estruturado e dentro das regas da ABNT é muito importante para quem busca o mercado de trabalho.<p> Para ajudar os internaltas, que busca por ajuda, estamos desenvolvendo esta aplicação Web para te ajudar a confeccionar um bom Curriculo e atingir seu objetivo</h2>
